@@ -1,0 +1,1 @@
+nombreFunción([argumento1, [argumento2]])
