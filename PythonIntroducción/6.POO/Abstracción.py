@@ -1,0 +1,1 @@
+#Es cuando sepáramos la clase de un objeto para crear un molde (clase)
