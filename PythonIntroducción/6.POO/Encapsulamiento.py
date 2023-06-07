@@ -16,3 +16,5 @@ class cuentaBancaria :
     
     def obtener_saldo(self):
         return self._saldo
+
+a1=cuentaBancaria(100)
